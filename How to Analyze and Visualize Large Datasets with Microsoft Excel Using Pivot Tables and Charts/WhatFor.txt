@@ -1,0 +1,8 @@
+In it, you will learn:
+
+How to format dates in Excel using the TEXT function.
+How to sort the entire data set.
+How to create multiple Pivot Tables on the same worksheet
+How to create charts based on the Pivot Table.
+How to create slicers to filter data, and finally,
+How to use conditional formatting.
